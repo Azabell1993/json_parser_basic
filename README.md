@@ -1,6 +1,7 @@
 # json_parser_basic
 
 ## Cosole 작업 모습
+```
 azabell@azabellui-MacBookPro:~/Desktop/workspace/json_parser_user$ ./test
 Press Enter to continue...
 
@@ -40,6 +41,7 @@ User data saved to userinfo.json
 5. Exit
 Enter your choice or END : [ exit | ... ] exit
 서버 종료
+```
 
 ## 등록이 완료된 모습
 <img width="378" alt="스크린샷 2024-09-13 오후 4 55 54" src="https://github.com/user-attachments/assets/49092895-c8fe-4e13-9cd1-d4e87250f933">
