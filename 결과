@@ -1,0 +1,58 @@
+azabell@azabellui-MacBookPro:~/Desktop/workspace/json_parser_user$ ./test
+Press Enter to continue...
+
+JSON 파일 읽기 성공
+Users parsed successfully.
+
+1. Register User
+2. Query User
+3. Delete User
+4. Display All Users
+5. Exit
+Enter your choice or END : [ exit | ... ] 1
+Enter host: localhost
+Enter user: jiwoo
+Enter password: 1234
+Enter name: jiwoo
+User registered successfully.
+User data saved to userinfo.json
+
+1. Register User
+2. Query User
+3. Delete User
+4. Display All Users
+5. Exit
+Enter your choice or END : [ exit | ... ] 2
+Enter username to query: jiwoo
+
+1. Register User
+2. Query User
+3. Delete User
+4. Display All Users
+5. Exit
+Enter your choice or END : [ exit | ... ] 4
+Displaying all users:
+Host: localhost, User: jiwoo, Pass: 1234, Name: jiwoo
+
+1. Register User
+2. Query User
+3. Delete User
+4. Display All Users
+5. Exit
+Enter your choice or END : [ exit | ... ] 3
+Enter username to delete: jiwoo
+Deleting user: jiwoo
+Smart pointer released (ref_count: 1)
+Smart pointer released (ref_count: 1)
+Smart pointer released (ref_count: 1)
+Smart pointer released (ref_count: 1)
+User deleted successfully.
+User data saved to userinfo.json
+
+1. Register User
+2. Query User
+3. Delete User
+4. Display All Users
+5. Exit
+Enter your choice or END : [ exit | ... ] 5
+Exiting...
